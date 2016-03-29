@@ -1,0 +1,8 @@
+main: com.minecraftport.summonHorse.main
+name: SummonHorse
+version: 1.0
+description: Summons an invincible undead horse. Meant for donators.
+commands:
+  horse:
+    description: Gives the player a horse. Should also mount them. Requires .summonhorse permission
+    aliases: [summonhorse]
